@@ -1,2 +1,2 @@
 # Quantum light
-To store the data for the quantum light project (Python code)
+To store the necessary Python code being used for the quantum light project
