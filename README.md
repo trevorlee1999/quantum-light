@@ -1,2 +1,1 @@
-# Quantum light
-To store the necessary Python code being used for the quantum light project
+For the code being used for the optical quantum memory project 
